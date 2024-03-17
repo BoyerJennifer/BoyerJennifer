@@ -1,8 +1,17 @@
 # 💫 Hi 👋 I'm Jennifer Boyer
-🌏I'm from Reunion Island<br>🔭I'm currently in training at O'Clock school<br>⌨️I'm undergoing a career transition as a full-stack web developer specializing in JS<br>📬You can reach me at : jennifer.boyer.28@gmail.com
+
+🌏I'm from Reunion Island
+
+🔭I'm currently in training at O'Clock school
+
+⌨️I'm undergoing a career transition as a full-stack web developer specializing in JS
+
+🔗If you want to know more here my [Resume](https://drive.google.com/file/d/1e9lEQoPJxzO84E__WdGv1_VIX-fZV4ti/view?usp=drive_link)
+
+📬You can reach me at : jennifer.boyer.28@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 More:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/boyerjennifer_28512) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jennifer-boyer-9a5b08270) 
 
 # 💻 Tech Stack:
