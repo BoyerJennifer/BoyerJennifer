@@ -8,6 +8,10 @@
 
 🔗If you want to know more here my [Resume](https://drive.google.com/file/d/1e9lEQoPJxzO84E__WdGv1_VIX-fZV4ti/view?usp=drive_link)
 
+🛑 My formation will end in August 2024 and i'm activily looking for a CDA (Application Design and Development Engineer) apprenticeship.
+
+📚 My [portfolio](https://boyerjennifer.github.io/) is in progress! 
+
 📬You can reach me at : jennifer.boyer.28@gmail.com
 
 
