@@ -1,5 +1,5 @@
-# 💫 About Me:
-👀Hi! I'm Boyer Jennifer<br>🌏I'm from Reunion Island<br>🔭I'm currently in training at O'Clock school<br>⌨️I'm undergoing a career transition as a full-stack web developer specializing in JS<br>📬You can reach me at : jennifer.boyer.28@gmail.com
+# 💫 Hi 👋 I'm Jennifer Boyer
+🌏I'm from Reunion Island<br>🔭I'm currently in training at O'Clock school<br>⌨️I'm undergoing a career transition as a full-stack web developer specializing in JS<br>📬You can reach me at : jennifer.boyer.28@gmail.com
 
 
 ## 🌐 Socials:
