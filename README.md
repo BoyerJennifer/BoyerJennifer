@@ -6,7 +6,7 @@
 
 ⌨️I'm undergoing a career transition as a full-stack web developer specializing in JS
 
-🔗If you want to know more about me => here my [Resume](https://drive.google.com/file/d/1MdbyY3Y1D-C-0ZndoQ1FwdebRu7ZN8Kw/view?usp=sharing)
+🔗If you want to know more about me => here my [Resume](https://drive.google.com/file/d/1_eO-DJ0uUZMaKG0sN38RiSN9qJMXsgPe/view?usp=sharing)
 
 🛑 My formation will end in August 2024 and i'm activily looking for a CDA (Application Design and Development Engineer) apprenticeship in October 2024.
 
